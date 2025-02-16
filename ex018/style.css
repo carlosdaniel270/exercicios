@@ -1,0 +1,21 @@
+@charset "UTF-8";
+@font-face {
+    font-family:"love";
+    src: url("Wild\ Love.otf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+   
+}
+h1{
+    text-align: center;
+    font-family: "love";
+    font-weight: normal;
+}
+p{
+    color: azure;
+   background-color: blue;
+}

@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+
+h1{  
+    
+    background-color: rgba(0, 123, 255, 0.566);
+    height: 300px;
+    width: 300px;
+    border-width: 15px;
+    border-style: dashed;
+    border-color: blue;
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right:10px ;
+    padding-left: 10px;
+    
+    
+    margin-top: 10px;
+    margin-bottom: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+    outline-width: 10;
+    outline-style: groove;
+    outline-color: aqua;
+}
+a{  
+    display: block;
+    border-width: 30;
+    border-color: blue;
+    border-style: groove;
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right:10px ;
+    padding-left: 10px;
+
+    
+}
+
