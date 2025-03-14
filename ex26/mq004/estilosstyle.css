@@ -1,0 +1,48 @@
+@charset "UTF-8";
+/* versão mobile fist */
+
+
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1em;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+  
+html{
+    height: 100vh;
+}
+body{
+    background:  black url(back-phone.jpg) no-repeat;
+    background-size: cover;
+    background-position:  center center;
+}
+
+main{
+    background-color: rgb(234, 230, 230) ;
+    width: 90vw;
+    margin: auto;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+img{
+    display: block;
+    width: 400px;
+    margin: auto;
+
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+img#phone{ display: block;
+}
+img#tablet { display: none;}
+img#pc {display: none;}
+img#print { display: none;}
+img#tv {display: none;}
